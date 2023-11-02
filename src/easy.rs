@@ -5,3 +5,4 @@ mod climbing_stairs;
 mod two_sum;
 mod plus_one;
 mod max_consecutive_ones;
+mod min_cost_climbing_stairs;
